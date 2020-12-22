@@ -1,3 +1,6 @@
-# web_news
+# web_news_3
 
-Latihan Node Js -> MySQL
+## Project Start
+```
+node index.js
+```
