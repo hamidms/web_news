@@ -1,6 +1,4 @@
-# web_news_3
-
-## Project Start
+### Project Start
 ```
 node index.js
 ```
