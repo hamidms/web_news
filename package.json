@@ -1,0 +1,26 @@
+{
+  "name": "web_news",
+  "version": "1.0.0",
+  "description": "Tugas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidms/web_news.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs",
+    "vuejs",
+    "axios"
+  ],
+  "author": "Hamid Machfudin Sukardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamidms/web_news/issues"
+  },
+  "homepage": "https://github.com/hamidms/web_news#readme"
+}
