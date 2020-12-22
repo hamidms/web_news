@@ -1,10 +1,8 @@
 'use strict';
 
-exports.ok = function (values, res) {
-    var data = {
-        'status':200,
-        'values':values
-    };
+exports.ok = function (articles, res) {
+    res.header("Access-Control-Allow-Origin", "*");
+    var data = articles;
 
     res.json(data);
     res.end();
